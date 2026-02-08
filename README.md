@@ -1,4 +1,4 @@
-# 🚗 Hit The Zombie -3d Mobile Gameeb
+# 🚗 Hit The Zombie -3d Mobile Game
 
 Welcome to **Hit The Zombier** – an adrenaline‑filled survival game where you smash through hordes of zombies with your car. Collect coins, refuel, and upgrade your vehicle to survive longer and earn bigger rewards!
 
