@@ -3,7 +3,7 @@
 Welcome to **Hit The Zombier** – an adrenaline‑filled survival game where you smash through hordes of zombies with your car. Collect coins, refuel, and upgrade your vehicle to survive longer and earn bigger rewards!
 
 ---
-
+![Gameplay Screenshot](https://github.com/Latu0312/Hit-The-Zombie/blob/main/Background.png)
 ## 🎮 Game Features
 
 - **Thrilling Gameplay**: Drive fast, crash zombies, and collect coins.  
@@ -14,7 +14,8 @@ Welcome to **Hit The Zombier** – an adrenaline‑filled survival game where yo
   - **Coin Gain Upgrade**: Earn extra coins when smashing zombies.  
 - **Endless Challenge**: The longer you survive, the tougher the waves of zombies become.  
 - **Reward System**: Collect coins to unlock upgrades and push your limits further.  
-
+![Gameplay Screenshot](https://github.com/Latu0312/Hit-The-Zombie/blob/main/Gameplay1.png)
+![Gameplay Screenshot](https://github.com/Latu0312/Hit-The-Zombie/blob/main/Gameplay2.png)
 ---
 
 ## 🚀 How to Play
@@ -23,9 +24,9 @@ Welcome to **Hit The Zombier** – an adrenaline‑filled survival game where yo
 2. Smash into gas barrels to refill your fuel.  
 3. Upgrade your car to survive longer and earn more rewards.  
 4. Keep driving until your fuel runs out – then try again with stronger upgrades!  
-
+![Gameplay Screenshot](https://github.com/Latu0312/Hit-The-Zombie/blob/main/Gameplay3.png)
 ---
-
+![Gameplay Screenshot](https://github.com/Latu0312/Hit-The-Zombie/blob/main/Shop.png)
 ## 💡 Future Plans
 
 - More vehicle types with unique abilities  
